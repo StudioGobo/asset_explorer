@@ -1,0 +1,7 @@
+qt.py>=1.4.1
+factories>=1.4.1
+qfactory>=1.0.1
+scribble>=1.0.0
+qtility>=1.0.1
+xcomposite>=2.0.7
+PySide6
